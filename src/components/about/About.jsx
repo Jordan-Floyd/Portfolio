@@ -14,28 +14,25 @@ const About = () => {
                 </div>
             </div>
             <div className="a-right">
-                <h1 className="a-title">About Me</h1>
+                <h1 className="a-title">About Me.</h1>
                 <p className="a-sub">
-                    Stuff about me in here! Lorem Ipsum is simply dummy text of the printing 
-                    and typesetting industry. Lorem Ipsum has been the industry's standard dummy 
-                    text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                    to make a type specimen book. It has survived not only five centuries, but also the leap 
-                    into electronic typesetting, remaining essentially unchanged. It was 
+                    Flexibility has been a driving factor for my love of technology. 
+                    I take to the fact that I can be in person or remote and explore my creativity in building.
+                    I am opportunity focused and love the growth engineering offers. 
+                    My strengths are fixing and finding optimal solutions to problems. I work well in teams as well as autonomously. 
+                    The information that is derived from data allows me to understand ways to navigate complex problems and is the reason for why I enjoy being a software engineer. 
+                    On my days off I'm an outdoor enthusiast. I ski, camp, and enjoy being on the beach. I’m also a gamer and love quality time with my family. 
                 </p>
                 <p className="a-desc">
-                    Stuff about me in here! Lorem Ipsum is simply dummy text of the printing 
-                    and typesetting industry. Lorem Ipsum has been the industry's standard dummy 
-                    text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                    to make a type specimen book. It has survived not only five centuries, but also the leap 
-                    into electronic typesetting, remaining essentially unchanged. It was
+                
                 </p>
                 <div className="a-award">
                     <img src= {Coding} alt="" className="a-award-img" />
                     <div className="a-award-texts">
                         <h4 className="a-award-title">Coding Temple</h4>
                         <p className="a-award-desc">
-                        Stuff about me in here! Lorem Ipsum is simply dummy text of the printing 
-                        and typesetting industry.
+                        Coding Temple Full Stack Grad 2021
+
                         </p>
 
                     </div>
